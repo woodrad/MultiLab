@@ -1,5 +1,5 @@
 # MultiLab
-An Affordance Architecture for Agent-Based Models of Endogenous Innovation.
+__An Affordance Architecture for Agent-Based Models of Endogenous Innovation.__
 
 ## Run requirements
 ====
