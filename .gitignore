@@ -1,3 +1,10 @@
+.classpath
+.project
+
+target/
+
+nbproject/private
+
 *.class
 
 # Mobile Tools for Java (J2ME)
