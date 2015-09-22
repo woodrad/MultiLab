@@ -1,7 +1,9 @@
+lib
+
 .classpath
 .project
 
-target/
+target
 
 nbproject/private
 
